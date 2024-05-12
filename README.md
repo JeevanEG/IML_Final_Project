@@ -1,6 +1,8 @@
 
 # Plant Disease Classification Model using CNN
 
+https://jupyterlab.readthedocs.io/en/stable
+
 ## Overview:
 
 This project aims to classify plant images into different disease categories using Convolutional Neural Networks (CNNs). The dataset used for training and validation consists of approximately 87,000 RGB images of healthy and diseased crop leaves, categorized into 38 different classes. The dataset is obtained from Kaggle, and it is divided into a 80/20 ratio for training and validation sets, while a separate directory containing 33 test images is created for prediction purposes.
