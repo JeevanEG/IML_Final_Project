@@ -3,6 +3,8 @@
 
 [![Coverage](https://img.shields.io/badge/Jupyter-notebook-brightgreen)](https://jupyterlab.readthedocs.io/en/stable)
 [![Coverage](https://img.shields.io/badge/Jupyter%20Notebook-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter)](https://jupyterlab.readthedocs.io/en/stable)
+[![Coverage](https://img.shields.io/pypi/pyversions/:packageName)]
+
 
 
 
