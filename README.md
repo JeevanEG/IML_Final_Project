@@ -1,9 +1,9 @@
-
+![image](https://github.com/JeevanEG/IML_Final_Project/assets/113001762/785080c2-1371-44ad-943b-87aebfadcdf7)
 # Plant Disease Classification Model using CNN
 
 [![Coverage](https://img.shields.io/badge/Jupyter-notebook-brightgreen)](https://jupyterlab.readthedocs.io/en/stable)
 [![Coverage](https://img.shields.io/badge/Jupyter%20Notebook-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter)](https://jupyterlab.readthedocs.io/en/stable)
-[![Coverage](https://img.shields.io/pypi/pyversions/python%203.10)]
+[![Coverage](https://badge.fury.io/py/tensorflow)]
 
 
 
