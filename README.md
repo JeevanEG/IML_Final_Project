@@ -2,6 +2,7 @@
 # Plant Disease Classification Model using CNN
 
 [![Coverage](https://img.shields.io/badge/Jupyter-notebook-brightgreen)](https://jupyterlab.readthedocs.io/en/stable)
+[![Coverage](https://img.shields.io/badge/Jupyter-notebook-brightgreen)](https://jupyterlab.readthedocs.io/en/stable)
 
 
 
