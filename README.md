@@ -1,7 +1,6 @@
 
 # Plant Disease Classification Model using CNN
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Jupyter-notebook-brightgreen)
 
 
 
